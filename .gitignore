@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Ignore kdev4
+.kdev4
+.kdev
+
+# Ignore Build directories
+Build/
+build/
+
+# Ignore Bin directories
+Bin/
+bin/
+
+# Ignore vscode
+.vscode/
+
+# Ignore Testing directory
+Testing/
